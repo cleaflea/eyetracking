@@ -1,0 +1,25 @@
+﻿Build started 2013/5/2 13:07:08.
+     1>Project "E:\My Documents\大三下\srtp\new program\eyeTracking_v_3.3\eyeTracking_v_1\eyeTracking_v_1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\eyeTracking_v_1.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         d:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\eyeTracking_v_1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ActionThread.cpp CustomDialog.cpp CvvImage.cpp UIThread.cpp eyeTracking_v_1.cpp eyeTracking_v_1Dlg.cpp
+         eyeTracking_v_1Dlg.cpp
+     1>e:\my documents\大三下\srtp\new program\eyetracking_v_3.3\eyetracking_v_1\eyetracking_v_1.h(6): fatal error C1083: 无法打开包括文件:“cv.h”: No such file or directory
+         eyeTracking_v_1.cpp
+     1>e:\my documents\大三下\srtp\new program\eyetracking_v_3.3\eyetracking_v_1\eyetracking_v_1.h(6): fatal error C1083: 无法打开包括文件:“cv.h”: No such file or directory
+         UIThread.cpp
+     1>e:\my documents\大三下\srtp\new program\eyetracking_v_3.3\eyetracking_v_1\eyetracking_v_1.h(6): fatal error C1083: 无法打开包括文件:“cv.h”: No such file or directory
+         CvvImage.cpp
+     1>e:\my documents\大三下\srtp\new program\eyetracking_v_3.3\eyetracking_v_1\cvvimage.h(6): fatal error C1083: 无法打开包括文件:“cv.h”: No such file or directory
+         CustomDialog.cpp
+     1>e:\my documents\大三下\srtp\new program\eyetracking_v_3.3\eyetracking_v_1\eyetracking_v_1.h(6): fatal error C1083: 无法打开包括文件:“cv.h”: No such file or directory
+         ActionThread.cpp
+     1>e:\my documents\大三下\srtp\new program\eyetracking_v_3.3\eyetracking_v_1\eyetracking_v_1.h(6): fatal error C1083: 无法打开包括文件:“cv.h”: No such file or directory
+         正在生成代码...
+     1>Done Building Project "E:\My Documents\大三下\srtp\new program\eyeTracking_v_3.3\eyeTracking_v_1\eyeTracking_v_1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:10.15
